@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: John Doe
+name: Amogh Amblihalli
 
 # Short bio or description (displayed in the header)
-# description: the profile of an engineer, researcher and software developer
+description: the profile of a mechanical engineer
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: images/circle_crop.jpg
@@ -18,12 +18,12 @@ avatar: images/circle_crop.jpg
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: mailto:aamblihalli@gmail.com
   facebook:
   flickr:
-  github:
-  instagram:
-  linkedin:
+  github: https://github.com/amoghamblihalli
+  instagram: 
+  linkedin: linkedin.com/in/amogh-amblihalli
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter:
